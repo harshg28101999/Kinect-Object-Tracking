@@ -5,4 +5,6 @@ Using the Microsoft Kinect Sensor, we can find the 3D range and color informatio
 This repository contains different parts: 
 * Average Point Tracking 
 * Depth Threshold
-
+* Multi Kinect
+* RGB Depth Test
+* Point Cloud
